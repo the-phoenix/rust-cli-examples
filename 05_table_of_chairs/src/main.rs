@@ -61,6 +61,4 @@ fn main() {
     let chairs = chairs();
 
     let _ = print_stdout(chairs.with_title());
-
-    // Ok(())
 }
